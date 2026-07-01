@@ -15,39 +15,34 @@ Portfolio website pribadi Rizal yang menampilkan profil, keahlian, proyek, serti
 
 ## 📁 Struktur Folder
 portfolio-rizal/
-│
-├── index.html # File utama website
-├── README.md # Dokumentasi
-│
-└── assets/
-└── img/
-├── profile/
-│ └── rizal.png # Foto profil
-│
-├── projek/
-│ ├── kandang/
-│ │ ├── kandang.png # Thumbnail
-│ │ ├── kandang1.png # Screenshot 1
-│ │ ├── kandang2.png # Screenshot 2
-│ │ └── kandang3.png # Screenshot 3
-│ │
-│ ├── bakau-noumi/
-│ │ ├── bakau.png # Thumbnail
-│ │ └── bakau1.png # Screenshot 1
-│ │
-│ ├── e-voting/
-│ │ ├── e-voting.png # Screenshot 2
-│ │ └── e-voting1.png # Thumbnail
-│ │
-│ └── explorebatam/
-│ ├── explorer.png # Thumbnail
-│ └── explorer1.png # Screenshot 1
-│
-└── sertifikat/
-├── Rizal-s-lpk.png # Disnaker Web Development
-├── Rizal-s-saintech.png # Saintech Cyber Security
-├── Rizal-s-seo.png # SEO Creator Fast Track
-└── Rizal-s-disnaker.png # Disnaker Web Development
+index.html # File utama website
+README.md # Dokumentasi
+assets/img/ 
+rofile/
+ rizal.png # Foto profil
+
+ projek/
+  kandang/
+    kandang.png # Thumbnail
+    kandang1.png # Screenshot 1
+    kandang2.png # Screenshot 2
+    kandang3.png # Screenshot 3
+bakau-noumi/
+ bakau.png # Thumbnail
+ bakau1.png # Screenshot 1
+
+ e-voting/
+   e-voting.png # Screenshot 2
+   e-voting1.png # Thumbnail
+ explorebatam/
+   explorer.png # Thumbnail
+   explorer1.png # Screenshot 1
+   
+ sertifikat/
+   Rizal-s-lpk.png # Disnaker Web Development
+   Rizal-s-saintech.png # Saintech Cyber Security
+   Rizal-s-seo.png # SEO Creator Fast Track
+   Rizal-s-disnaker.png # Disnaker Web Development
 
 text
 
