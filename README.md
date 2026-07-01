@@ -121,7 +121,7 @@ text
 
 - **Email**: rizal2512999@gmail.com
 - **WhatsApp**: [6285669049294](https://wa.me/6285669049294)
-- **GitHub**: [rizalpratamani10-cmd](https://github.com/rizalpratamani10-cmd)
+- **GitHub**: [rizalpratamani10-cmd](https://github.com/rizaldev2512
 - **LinkedIn**: (Coming Soon)
 
 ## 🚀 Cara Menjalankan
